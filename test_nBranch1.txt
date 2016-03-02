@@ -1,1 +1,3 @@
 test new file on nBranch1
+
+add new line on nBranch1(test conflict)
